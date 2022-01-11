@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+#head{
+  margin-top: 2px;
+  margin-left: 85px;
+  color: #3E2828FF;
+}
+#log{
+  border:outset 6px rgb(189, 186, 189);
+  height: 500px;
+  width: 380px;
+  padding: 60px;
+  margin-top: 40px;
+  margin-left: 150px;
+  border-radius: 8px;
+  display: block;
+  background-image: url(./components/girimage.jpg);
+  background-size: 380px 500px;
+  background-repeat: no-repeat;
+}
+#user{
+  margin-top: 50px;
+  color:#222233;
+}
+#login{
+  background-color: #929357;
+  color:white;
+  transition: 0.4s;
+  text-decoration: none;
+  border:inset 2px lightslategray;
+   color: #3E2828FF;
+}
+#login:hover{
+  transform: scale(1.2);
+}
+#view{
+  background-color:whitesmoke;
+  transition: 0.4s;
+  height: 30px;
+  width: 220px;
+}
+#view:hover{
+  transform: scale(1.2);
+}
+
+#Logout{
+  float: right;
+}
+#sign{
+  margin-left: 60px;
+  background-color: #131404;
+  color: whitesmoke;
+  text-decoration: none;
+  border:outset 2px lightslategray;
+}
+#fill{
+  border:groove 6px rgb(241, 239, 241);
+  height: 500px;
+  width: 450px;
+  padding: 20px;
+  margin-left: 150px;
+  border-radius: 8px;
+}
+img{
+  margin: top 0;
+  height: 80px;
+  width: 120px;
+  border-radius: 10px;
+  margin-left: 60px;
+}
+.formie{
+  height: 180px;
+  width: 280px;
+  padding-left: 10px;
+  display: block;
+}

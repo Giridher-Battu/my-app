@@ -1,0 +1,24 @@
+{
+  "colleges":[
+      {
+          "id":1,
+          "name":"CET Campus",
+          "alterEgo":"wolf attck"
+      },
+      {
+          "id":2,
+          "name":"Technical Campus",
+          "alterEgo":"Drog attck"
+      },
+      {
+          "id":3,
+          "name":"IT Campus",
+          "alterEgo":"bulf attck"
+      },
+      {
+          "id":4,
+          "name":"EC Campus",
+          "alterEgo":"son attck"
+      }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "events":[
+      {
+          "id":1,
+          "action":"Bunjee-jump",
+          "alterEgo":"wolf attck"
+      },
+      {
+          "id":2,
+          "action":"River-rafting",
+          "alterEgo":"Drog attck"
+      },
+      {
+          "id":3,
+          "action":"Scooba-diving",
+          "alterEgo":"bulf attck"
+      },
+      {
+          "id":4,
+          "action":"para-gliding",
+          "alterEgo":"son attck"
+      }
+  ]
+}
